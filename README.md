@@ -58,7 +58,7 @@ osTicket is now ready for confirguration and clean up. This will include install
 <img src="https://i.imgur.com/UOA9310.jpg)" height="80%" width="80%" alt="Disk Sanitation Stepd"/>
 </p>
 <p>
- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+ The configuration consisted of a named database in osTicket under MySQL and started a new session in Heidi SQL.   Aterwards, the cleanup was done by the set permissions to "Read" only of C:\inetpub\wwwroot\osTicket\ost-config.php and deletion of C:\inetpub\wwwrkoot\osTicket\setup.  
 </p>
 <br />
 
@@ -66,4 +66,4 @@ osTicket is now ready for confirguration and clean up. This will include install
 <img src="https://i.imgur.com/TC0tK3n.png) height="80%" width="80%" alt="Disk Sanitation Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This point in time all installations, downloads, configurations, have been accomplished and osTicket is now ready for post installation setup.
